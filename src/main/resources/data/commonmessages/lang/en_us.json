@@ -1,0 +1,20 @@
+{
+	"text.commonmessages.eliminated": "%s has been eliminated!",
+	"text.commonmessages.eliminated.by": "%s has been eliminated by %s!",
+	"text.commonmessages.eliminated.out_of_bounds": "%s has been eliminated by going out of bounds!",
+	"text.commonmessages.eliminated.out_of_bounds.by": "%s was knocked out of bounds by %s!",
+	"text.commonmessages.knockback_enabled": "Knockback has been enabled!",
+	"text.commonmessages.next_turn": "It is now %s's turn.",
+	"text.commonmessages.no_turn": "There is no player with the turn.",
+	"text.commonmessages.no_win": "Nobody won the game!",
+	"text.commonmessages.no_win.after_rounds": "Nobody won the game after %s rounds!",
+	"text.commonmessages.no_win.within_rounds": "Nobody won the game within %s rounds!",
+	"text.commonmessages.other_turn": "It is currently %s's turn.",
+	"text.commonmessages.team_eliminated": "The %s has been eliminated!",
+	"text.commonmessages.team_eliminated.by": "The %s has been eliminated by %s!",
+	"text.commonmessages.team_eliminated.by_team": "The %s has been eliminated by the %s!",
+	"text.commonmessages.team_win": "The %s team has won the game!",
+	"text.commonmessages.team_win.after_rounds": "The %s team has won the game after %s rounds!",
+	"text.commonmessages.win": "%s has won the game!",
+	"text.commonmessages.win.after_rounds": "%s has won the game after %s rounds!"
+}

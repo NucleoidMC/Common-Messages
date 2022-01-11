@@ -1,0 +1,28 @@
+{
+	"schemaVersion": 1,
+	"id": "commonmessages",
+	"version": "${version}",
+	"name": "Common Messages",
+	"description": "Adds various message templates for games.",
+	"authors": [
+		"haykam821"
+	],
+	"contact": {
+		"homepage": "https://github.com/NucleoidMC/Common-Messages#readme",
+		"issues": "https://github.com/NucleoidMC/Common-Messages/issues"
+	},
+	"custom": {
+		"modmenu": {
+			"badges": [
+				"library"
+			]
+		}
+	},
+	"license": "MIT",
+	"icon": "assets/commonmessages/icon.png",
+	"depends": {
+		"fabricloader": ">=0.4.0",
+		"plasmid": "*",
+		"fabric-resource-loader-v0": "*"
+	}
+}
